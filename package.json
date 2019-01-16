@@ -1,0 +1,17 @@
+{
+  "name": "testeur-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "download": "^7.1.0",
+    "download-to-file": "^2.1.0",
+    "image-downloader": "^3.4.2",
+    "node-fetch": "^2.3.0"
+  }
+}
